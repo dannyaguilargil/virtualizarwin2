@@ -69,3 +69,6 @@ aqui ya podemos apagar la maquina y cada ves que deseemos iniciar nuestra maquin
 
 -cd ~/qemu/windows
 -./start.sh
+
+//PARA MAS INFORMACION PUEDES CONSULTAR 
+//http://danyasolucionesinformaticas.blogspot.com/
